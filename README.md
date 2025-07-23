@@ -22,4 +22,13 @@ This system provides a straightforward yet powerful demonstration of how modern 
 
 One of the key advantages of using this pre-trained model is that users do not need to train their own ASR system, which can be time-consuming and resource-intensive. Instead, the pretrained Wav2Vec2 model can be downloaded and used out of the box for high-quality speech transcription. Moreover, this system can be easily extended to support real-time transcription, voice-command applications, or even integrated into mobile or web apps with some modifications. Additionally, since the system runs efficiently in a Jupyter or Colab environment, it is highly accessible to students, researchers, and developers for experimentation and learning.
 
+*OUTPUT*
+
+<img width="1800" height="85" alt="Image" src="https://github.com/user-attachments/assets/be5be92d-ea62-4811-9259-dfffc550dd4e" />
+
+<img width="1755" height="86" alt="Image" src="https://github.com/user-attachments/assets/c86277a4-564b-472c-87c8-faf3e37c316a" />
+
+<img width="1803" height="216" alt="Image" src="https://github.com/user-attachments/assets/9d340b2b-744a-48e1-9b48-6d6b85857032" />
+
+<img width="1711" height="122" alt="Image" src="https://github.com/user-attachments/assets/fe4fae78-b9a5-4abf-96d9-46b3186ab149" />
 
